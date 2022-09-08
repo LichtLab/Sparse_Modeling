@@ -56,6 +56,7 @@ In order to calculate PARTIAL correlation coefficients for all pairs between a l
 3. calculate the correlation
 
 Suppose $N_{variables}: Num \ of \ variables$, $N_{models}: Num \ of \ models$ then $N_{models}$ will caluculated as below.
+
 $$
 N_{models} = _{N_{variables}}C_{2} = O(N_{variables}^2)
 $$
